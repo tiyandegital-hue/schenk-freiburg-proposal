@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://de-schenk-freiburg-proposal.vercel.app/sitemap.xml
